@@ -21,7 +21,7 @@ Our community is growing beyond our physical locations. We are now opening this 
 ## 🚀 How to Use This Deck
 
 1. **Play Digitally**: Visit the [Curious Souls Web App](https://app.curioussouls.cafe/topics/global-curiosities) to play this deck. You can toggle between "Location Mode" (to browse questions by the specific city they were submitted from) or "Theme Mode".
-2. **Custom Games**: Copy the raw text from `global-curiosities.txt` and paste it into our free [Deck Builder](https://app.curioussouls.cafe/builder) to customize it and instantly launch a custom game.
+2. **Custom Games**: Copy the raw text from `prompts/global-curiosities.txt` and paste it into our free [Deck Builder](https://app.curioussouls.cafe/builder) to customize it and instantly launch a custom game.
 
 ## 🤝 Contributing
 
@@ -46,3 +46,4 @@ Licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Inter
 This deck features questions collected from past and present attendees at our physical meetups. Because these questions are submitted anonymously, no personal data is attached to them.
 
 However, if you recognize a highly specific question that you submitted at a past event and you prefer it not be open-sourced, we absolutely respect your wishes. Please email us at **privacy@curioussouls.cafe** with the exact text of the question, and we will promptly remove it from the repository and our app.
+
