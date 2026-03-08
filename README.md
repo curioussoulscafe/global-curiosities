@@ -30,7 +30,7 @@ Help us map the world's curiosities! If you have a great question that invites s
 🌟 **Not a developer? No problem! You can easily submit your questions via our web form here:**  
 👉 **[curioussouls.cafe/share/curiosity](https://curioussouls.cafe/share/curiosity)**
 
-If you prefer to contribute directly via a GitHub Pull Request, please read our [`CONTRIBUTING.md`](CONTRIBUTING.md) for formatting rules (Intensity, Location, and Theme tags) and safety guidelines.
+If you prefer to contribute directly via a GitHub Pull Request, please read our [`CONTRIBUTING.md`](CONTRIBUTING.md) for formatting rules (Location tags) and safety guidelines.
 
 ## ⚖️ License & Terms of Use
 
@@ -46,4 +46,5 @@ Licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Inter
 This deck features questions collected from past and present attendees at our physical meetups. Because these questions are submitted anonymously, no personal data is attached to them.
 
 However, if you recognize a highly specific question that you submitted at a past event and you prefer it not be open-sourced, we absolutely respect your wishes. Please email us at **privacy@curioussouls.cafe** with the exact text of the question, and we will promptly remove it from the repository and our app.
+
 
