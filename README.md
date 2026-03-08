@@ -10,7 +10,7 @@ In a world increasingly shaped by digital feeds and isolation, [Curious Souls Ca
 
 At our events, we have a tradition: participants write down their own thought-provoking questions on slips of paper for the group to discuss.
 
-**"Global Curiosities"** is the master archive of that tradition. It is a 100% crowdsourced collection of conversation starters harvested from over **150+ real-world events**. Every physical city tag you see in this file (e.g., `[Hong Kong]`, `[Seoul]`) acts as a "verified" badge, meaning that question was successfully tested at a live, face-to-face gathering.
+**"Global Curiosities"** is the living archive of that tradition. It is a 100% crowdsourced collection of conversation starters gathered from over **150+ real-world events**. Every physical city tag you see in this file (e.g., `[Hong Kong]`, `[Seoul]`) indicate the question was live-tested at our official offline meetups.
 
 ### 🌐 The New "[Online]" Category
 
@@ -41,10 +41,8 @@ In accordance with our [Privacy & Terms](https://curioussouls.cafe/privacy), scr
 
 Licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**. See the `LICENSE` file for full details.
 
-### 🗑️ Content Removal & Opt-Out
+### 🗑️ Withdrawing a Question
 
 This deck features questions collected from past and present attendees at our physical meetups. Because these questions are submitted anonymously, no personal data is attached to them.
 
 However, if you recognize a highly specific question that you submitted at a past event and you prefer it not be open-sourced, we absolutely respect your wishes. Please email us at **privacy@curioussouls.cafe** with the exact text of the question, and we will promptly remove it from the repository and our app.
-
-
