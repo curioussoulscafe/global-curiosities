@@ -1,46 +1,47 @@
 # Global Curiosities - Curious Souls Café 🌍☕
 
-Welcome to the open-source repository for the **Global Curiosities Deck**—a living, breathing atlas of human curiosity where the world’s questions take center stage.
+Welcome to the open-source repository for the **Global Curiosities Deck**—a crowdsourced collection of conversation starters written by people from all over the world.
 
 ### ☕ What is Curious Souls Café?
-In a world increasingly shaped by digital feeds and isolation, [Curious Souls Café](https://curioussouls.cafe/) is a grassroots "third place." We host free, face-to-face gatherings in coffee shops across the globe. Our mission is simple: to help people skip the small talk, foster genuine human connection, and explore life’s big questions in a safe, non-judgmental environment.
+[Curious Souls Café](https://curioussouls.cafe/) is a grassroots "third place" away from home and work. We host free, face-to-face gatherings in coffee shops across the globe—from Seoul to Singapore, Hong Kong to Amsterdam. We're here to help people skip the small talk, make genuine connections, and explore life’s big questions in a safe, welcoming space.
 
-### 🗃️ About This Deck (An Atlas of Curiosity)
-At our events, we have a tradition: participants write down their own thought-provoking questions on slips of paper for the group to discuss. 
+### 🗃️ About This Deck
+At our events, we have a tradition: participants write down their own questions on slips of paper for the group to discuss. 
 
-This deck is the master archive of that tradition. It features **300+ questions** gathered from over **150+ real-world events**. Instead of only looking inward, we invite you to look outward: tracing how curiosity travels, comparing perspectives, and uncovering patterns that connect us around the world. Every physical city tag you see in this file (e.g., `[Hong Kong]`, `[Seoul]`) indicates that the question was live-tested at a face-to-face gathering.
+This repository is the central collection of that tradition. It features **300+ questions** gathered from over **150+ real-world events**. Every physical city tag you see in this file (e.g., `[Hong Kong]`, `[Seoul]`) means that question was actually tested at a live, face-to-face gathering.
 
 ### 🌐 The New "[Online]" Category
-Our community is growing beyond our physical locations. We are now opening this deck to the internet! Anyone, anywhere in the world, can submit a question to the deck. To preserve the history of our in-person events, all internet submissions are proudly tagged as `[Online]` to celebrate our digital community.
+As our community grows, we're opening this deck up to the internet. Anyone, anywhere can now submit a question. To protect the history of our in-person events, all internet submissions use the `[Online]` tag.
 
 ---
 
 ## 🚀 How to Use This Deck
 
-1. **Play Digitally**: Visit the [Curious Souls Web App](https://app.curioussouls.cafe/topics/global-curiosities) to play this deck. You can toggle between "Location Mode" (to browse questions by the specific city they were submitted from) or "Theme Mode".
-2. **Custom Games**: Copy the raw text from `prompts/global-curiosities.txt` and paste it into our free [Deck Builder](https://app.curioussouls.cafe/builder) to customize it and instantly launch a custom game.
+1. **Play Digitally**: Visit our [Web App](https://app.curioussouls.cafe/topics/global-curiosities) to play the deck. You can browse questions by their specific city ("Location Mode") or by category ("Theme Mode").
+2. **Make a Custom Game**: Copy the raw text from `global-curiosities.txt` and paste it into our free [Deck Builder](https://app.curioussouls.cafe/builder) to print your own physical cards or launch a digital game for your friends.
 
 ## 🤝 Contributing
 
-Help us map the world's curiosities! If you have a great question that invites storytelling or deep reflection, we want it in the deck.
+We'd love to add your voice to the deck! If you have a great question that invites a short story or some deep reflection, please share it.
 
-🌟 **Not a developer? No problem! You can easily submit your questions via our web form here:**  
+🌟 **Not a developer?** You can easily submit your questions via our web form:  
 👉 **[curioussouls.cafe/share/curiosity](https://curioussouls.cafe/share/curiosity)**
 
-If you prefer to contribute directly via a GitHub Pull Request, please read our [`CONTRIBUTING.md`](CONTRIBUTING.md) for formatting rules (Location tags) and safety guidelines.
+If you prefer to submit a GitHub Pull Request, please check out our [`CONTRIBUTING.md`](CONTRIBUTING.md) for formatting rules and community guidelines.
+
+---
 
 ## ⚖️ License & Terms of Use
 
-This content is provided for personal, non-commercial, and community facilitation use.
+This content is provided for personal, non-commercial, and community facilitation use. 
 
 **Prohibited Uses:**
-In accordance with our [Privacy & Terms](https://curioussouls.cafe/privacy), scraping this repository for commercial monetization, or using this data to train Artificial Intelligence (AI) models or Large Language Models (LLMs), is strictly prohibited.
+In accordance with our [Privacy & Terms](https://curioussouls.cafe/privacy), scraping this repository for commercial monetization, or using this data to train Artificial Intelligence (AI) models or Large Language Models (LLMs), is strictly prohibited. 
 
-Licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**. See the `LICENSE` file for full details.
+**Open Source License:**
+Licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**. This means you are free to share and adapt these questions, provided you give appropriate credit, do not use them for commercial purposes, and distribute your contributions under this exact same license. See the `LICENSE` file for full details.
 
 ### 🗑️ Withdrawing a Question
+Many of the questions here were collected from attendees at our physical meetups. They are completely anonymous and contain no personal data. 
 
-This deck features questions collected from past and present attendees at our physical meetups. Because these questions are submitted anonymously, no personal data is attached to them.
-
-However, if you recognize a highly specific question that you submitted at a past event and you prefer it not be open-sourced, we absolutely respect your wishes. Please email us at **privacy@curioussouls.cafe** with the exact text of the question, and we will promptly remove it from the repository and our app.
-
+However, if you recognize a specific question you wrote at a past event and would rather it not be public, just let us know. Email **privacy@curioussouls.cafe** with the exact text of the question, and we will remove it from the repository and the app, no questions asked.
