@@ -44,4 +44,5 @@ Licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Inter
 ### 🗑️ Withdrawing a Question
 Many of the questions here were collected from attendees at our physical meetups. They are completely anonymous and contain no personal data. 
 
-However, if you recognize a specific question you wrote at a past event and would rather it not be public, just let us know. Email **privacy@curioussouls.cafe** with the exact text of the question, and we will remove it from the repository and the app, no questions asked.
+However, if you recognize a specific question you wrote at a past event and would rather it not be public, just let us know. Email **privacy@curioussouls.cafe** with the exact text of the question, and we will remove it from the repository and the app.
+
