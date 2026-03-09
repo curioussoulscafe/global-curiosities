@@ -1,27 +1,27 @@
 # Contributing to Global Curiosities
 
-First off, thank you for contributing! By adding your questions, you are directly helping people around the world skip the small talk and build genuine human connections.
+Thanks for wanting to contribute! By sharing your favorite questions, you're helping people all over the world skip the small talk and connect.
 
-🌟 **Not a developer? You can easily submit your questions via our web form:**  
+🌟 **Not a developer?** You can easily submit your questions using our web form:  
 👉 **[curioussouls.cafe/share/curiosity](https://curioussouls.cafe/share/curiosity)**
 
-If you are familiar with GitHub and want to submit directly via a Pull Request (PR), please read through the guidelines below to ensure your questions fit the community's vibe and formatting.
+If you know your way around GitHub and prefer to open a Pull Request (PR), just follow these quick guidelines to make sure your question fits the deck.
 
 ## 💡 1. What Makes a Great Question?
 
-- **Keep it accessible:** Anyone, regardless of their background, should be able to answer it.
-- **Keep it open-ended:** Avoid simple "Yes/No" questions. Frame them in a way that naturally invites a short story.
-- **Avoid sensitive topics:** To maintain a safe, non-judgmental environment globally, absolutely no questions involving politics, religion, or highly divisive social issues.
-- **No Personal Information:** Never include real names or personally identifiable information (PII) in your prompts.
+- **Keep it accessible:** Anyone should be able to answer it, no matter their background.
+- **Keep it open-ended:** Try to avoid simple "Yes/No" questions. Frame them in a way that invites a short story or reflection.
+- **Keep it safe:** To make sure our spaces stay welcoming globally, please avoid questions about politics, religion, or highly divisive topics.
+- **Keep it anonymous:** Never include real names or personal information in your prompts.
 
 ## 📝 2. Formatting Requirements
 
-Our web app relies on specific formatting to filter questions by Location. Please format your line exactly like the existing questions in `global-curiosities.txt`.
+Our web app uses a specific text format to filter questions by Location. Please format your line exactly like the existing questions in `prompts/global-curiosities.txt`.
 
 **Location Tags (Suffix)**
-At the end of your question, please include the Location in brackets.
+At the very end of your question, please add the location in brackets.
 
-- **Location Rule:** If you are submitting this via the internet rather than at a physical event, **you must use the `[Online]` tag.** Specific city tags (like `[Hong Kong]`, or `[Seoul]`, or `[Zoom]`) act as a "verified" badge and are strictly reserved for questions collected by facilitators at our official live meetups (both physical and virtual).
+- **The Location Rule:** If you are submitting this via the internet, **you must use the `[Online]` tag.** City tags (like `[Hong Kong]` or `[Seoul]`) are strictly reserved for our facilitators to log questions that were actually tested at our live, face-to-face meetups.
 - **Format:** `[Online]`
 
 **Perfect Example:**
@@ -30,25 +30,23 @@ At the end of your question, please include the Location in brackets.
 ## 🛠️ 3. How to Submit via GitHub
 
 1.  **Fork** this repository.
-2.  Open the `global-curiosities.txt` file.
+2.  Open the `prompts/global-curiosities.txt` file.
 3.  Add your properly formatted question to the bottom of the list.
-4.  **Commit** your changes with a clear commit message (e.g., `Add 1 new question about Relationships`).
+4.  **Commit** your changes with a clear, short message (e.g., `Add 1 new question about relationships`).
 5.  Open a **Pull Request (PR)** against our `main` branch.
 
-_(Note: A maintainer may edit your PR or submission before or after merging)._
+*(Note: Don't worry if you accidentally mess up the formatting—a maintainer can easily help fix your PR before merging it).*
 
-## ⚖️ 4. Legal & Intellectual Property Agreement
+## ⚖️ 4. Legal & Community Agreement
 
-By submitting a Pull Request to this repository, you agree to the terms outlined in the Curious Souls Café [Privacy & Terms](https://curioussouls.cafe/privacy).
+By opening a Pull Request, you agree to the Curious Souls Café [Privacy & Terms](https://curioussouls.cafe/privacy). In plain English, this means:
 
-Specifically, you acknowledge that:
+- You wrote the question yourself (or it's public domain).
+- You're happy to gift it to the community, granting us a royalty-free license to use and share it under this repository's `LICENSE` (CC BY-NC-SA 4.0).
+- We will reject submissions containing harassment, hate speech, or inappropriate content.
 
-- You are the original author of the question, or the question is common public domain knowledge.
-- You retain ownership of your ideas; however, **you grant Curious Souls Café a perpetual, irrevocable, worldwide, royalty-free license** to use, reproduce, adapt, publish, and display that content in our decks, apps, and marketing materials without compensation.
-- Submissions containing harassment, hate speech, or prohibited content will be rejected.
-
-**🛑 Content Removal:** If you ever change your mind and wish to retract a question you submitted, or if you believe someone else submitted your copyrighted work without permission, please email **privacy@curioussouls.cafe** and we will promptly remove it.
+**🛑 Withdrawing a Question:** If you ever change your mind and want a question you submitted removed, just email **privacy@curioussouls.cafe**. We'll delete it from the deck and the app, no questions asked.
 
 ---
 
-_Thank you for helping us make the world a little more connected, one question at a time!_ 🌍☕
+*Thank you for helping us make the world a little more connected, one question at a time!* 🌍☕
