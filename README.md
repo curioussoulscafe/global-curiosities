@@ -1,19 +1,16 @@
 # Global Curiosities - Curious Souls Café 🌍☕
 
-Welcome to the open-source repository for the **Global Curiosities Deck**.
+Welcome to the open-source repository for the **Global Curiosities Deck**—a living, breathing atlas of human curiosity where the world’s questions take center stage.
 
 ### ☕ What is Curious Souls Café?
+In a world increasingly shaped by digital feeds and isolation, [Curious Souls Café](https://curioussouls.cafe/) is a grassroots "third place." We host free, face-to-face gatherings in coffee shops across the globe. Our mission is simple: to help people skip the small talk, foster genuine human connection, and explore life’s big questions in a safe, non-judgmental environment.
 
-In a world increasingly shaped by digital feeds and isolation, [Curious Souls Café](https://curioussouls.cafe/) is a grassroots "third place." We host free, face-to-face gatherings in coffee shops across the globe—from Seoul to Singapore, Hong Kong to Amsterdam. Our mission is simple: to help people skip the small talk, foster genuine human connection, and explore life’s big questions in a safe, non-judgmental environment.
+### 🗃️ About This Deck (An Atlas of Curiosity)
+At our events, we have a tradition: participants write down their own thought-provoking questions on slips of paper for the group to discuss. 
 
-### 🗃️ About This Deck
-
-At our events, we have a tradition: participants write down their own thought-provoking questions on slips of paper for the group to discuss.
-
-**"Global Curiosities"** is the living archive of that tradition. It is a 100% crowdsourced collection of conversation starters gathered from over **150+ real-world events**. Every physical city tag you see in this file (e.g., `[Hong Kong]`, `[Seoul]`) indicate the question was live-tested at our official offline meetups.
+This deck is the master archive of that tradition. It features **300+ questions** gathered from over **150+ real-world events**. Instead of only looking inward, we invite you to look outward: tracing how curiosity travels, comparing perspectives, and uncovering patterns that connect us around the world. Every physical city tag you see in this file (e.g., `[Hong Kong]`, `[Seoul]`) indicates that the question was live-tested at a face-to-face gathering.
 
 ### 🌐 The New "[Online]" Category
-
 Our community is growing beyond our physical locations. We are now opening this deck to the internet! Anyone, anywhere in the world, can submit a question to the deck. To preserve the history of our in-person events, all internet submissions are proudly tagged as `[Online]` to celebrate our digital community.
 
 ---
@@ -46,3 +43,4 @@ Licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Inter
 This deck features questions collected from past and present attendees at our physical meetups. Because these questions are submitted anonymously, no personal data is attached to them.
 
 However, if you recognize a highly specific question that you submitted at a past event and you prefer it not be open-sourced, we absolutely respect your wishes. Please email us at **privacy@curioussouls.cafe** with the exact text of the question, and we will promptly remove it from the repository and our app.
+
