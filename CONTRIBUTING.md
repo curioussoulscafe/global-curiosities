@@ -45,8 +45,9 @@ By opening a Pull Request, you agree to the Curious Souls Café [Privacy & Terms
 - You're happy to gift it to the community, granting us a royalty-free license to use and share it under this repository's `LICENSE` (CC BY-NC-SA 4.0).
 - We will reject submissions containing harassment, hate speech, or inappropriate content.
 
-**🛑 Withdrawing a Question:** If you ever change your mind and want a question you submitted removed, just email **privacy@curioussouls.cafe**. We'll delete it from the deck and the app, no questions asked.
+**🛑 Withdrawing a Question:** If you ever change your mind and want a question you submitted removed, just email **privacy@curioussouls.cafe**. We'll delete it from the deck and the app.
 
 ---
 
 *Thank you for helping us make the world a little more connected, one question at a time!* 🌍☕
+
