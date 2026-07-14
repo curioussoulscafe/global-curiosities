@@ -1,10 +1,10 @@
-# **Global Curiosities \- Curious Souls Café 🌍☕**
+# **Global Curiosities \- Curious Souls Cafe 🌍☕**
 
 Welcome to the open-source repository for the **Global Curiosities Deck**—a crowdsourced collection of conversation starters written by people from all over the world.
 
-### **☕ What is Curious Souls Café?**
+### **☕ What is Curious Souls Cafe?**
 
-[Curious Souls Café](https://curioussouls.cafe/) is a grassroots "third place" away from home and work. We host free, face-to-face gatherings in coffee shops across the globe—from Seoul to Singapore, Hong Kong to Amsterdam. We're here to help people skip the small talk, make genuine connections, and explore life’s big questions in a safe, welcoming space.
+[Curious Souls Cafe](https://curioussouls.cafe/) is a grassroots "third place" away from home and work. We host free, face-to-face gatherings in coffee shops across the globe—from Seoul to Singapore, Hong Kong to Amsterdam. We're here to help people skip the small talk, make genuine connections, and explore life’s big questions in a safe, welcoming space.
 
 ### **🗃️ About This Deck**
 
@@ -23,7 +23,7 @@ As our community grows, we're opening this deck up to the internet. Anyone, anyw
 
 ## **🤝 Contributing**
 
-We'd love to add your voice to the deck\! If you have a great question that invites a short story or some deep reflection, please share it. *To help maintain the inclusive and inviting atmosphere of our gatherings, please note that submissions are modified or edited to adapt to the general tone and style of the café.*  
+We'd love to add your voice to the deck\! If you have a great question that invites a short story or some deep reflection, please share it. *To help maintain the inclusive and inviting atmosphere of our gatherings, please note that submissions are modified or edited to adapt to the general tone and style of the cafe.*  
 
 🌟 **Not a developer?** You can easily submit your questions via our web form:  
 👉 [**curioussouls.cafe/share/curiosity**](https://curioussouls.cafe/share/curiosity)  
