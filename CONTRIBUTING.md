@@ -39,7 +39,7 @@ At the very end of your question, please add the location in brackets.
 
 ## ⚖️ 4. Legal & Community Agreement
 
-By opening a Pull Request, you agree to the Curious Souls Café [Privacy & Terms](https://curioussouls.cafe/privacy). In plain English, this means:
+By opening a Pull Request, you agree to the Curious Souls Cafe [Privacy & Terms](https://curioussouls.cafe/privacy). In plain English, this means:
 
 - You wrote the question yourself (or it's public domain).
 - You're happy to gift it to the community, granting us a royalty-free license to use and share it under this repository's `LICENSE` (CC BY-NC-SA 4.0).
